@@ -8801,10 +8801,10 @@ minizlib@^2.1.1:
     minipass "^3.0.0"
     yallist "^4.0.0"
 
-mirrorfly-uikit-react-native@^1.0.6:
-  version "1.0.6"
-  resolved "https://registry.npmjs.org/mirrorfly-uikit-react-native/-/mirrorfly-uikit-react-native-1.0.6.tgz"
-  integrity sha512-gC6ofxZQUTMEEoBbBd2RJqJ55/Yp3Sg3f19qKNE/x6KpxEzTsIMbQXeM36lvTUzQ5EKZDtWrVNDwat6BdIkKYg==
+mirrorfly-uikit-react-native@^1.0.7:
+  version "1.0.7"
+  resolved "https://registry.npmjs.org/mirrorfly-uikit-react-native/-/mirrorfly-uikit-react-native-1.0.7.tgz"
+  integrity sha512-U80OAnimb3Pq2vbiGlCxiMwt4Tvk59elG7KZTSmapkWwZFpEOxtf4/IR90YKbprR7swLI86mQwUXUFyd7E327w==
 
 mixin-deep@^1.2.0:
   version "1.3.2"
